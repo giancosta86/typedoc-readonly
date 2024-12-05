@@ -1,0 +1,13 @@
+/coverage/
+
+/dist/
+
+/node_modules/
+
+/website/
+
+/*-*.tgz
+
+/*.tsbuildinfo
+
+__pycache__/
