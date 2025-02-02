@@ -19,4 +19,4 @@ jobs:
         with:
           python-version: "3.11"
 
-      - uses: giancosta86/aurora-github/actions/verify-npm-package@v8
+      - uses: giancosta86/aurora-github/actions/verify-npm-package@v10
